@@ -303,12 +303,12 @@ int WriteFile(const char *pFilename, const HEAD sHead, char *pBuffer, const int 
 
 图3、4：Pic.bmp生成的HuffmanTree结点信息
 
-![](./images/Huffman树结点信息1.png)
-![](./images/Huffman树结点信息2.png)
+![](./images/Huffman树结点信息1.PNG)
+![](./images/Huffman树结点信息2.PNG)
 
 图5:生成的Huffman编码信息
 
-![](./images/HuffmanCode生成.png)
+![](./images/HuffmanCode生成.PNG)
 
 图6：Pic.bmp压缩大小及压缩率
 
