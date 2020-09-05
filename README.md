@@ -296,16 +296,20 @@ int WriteFile(const char *pFilename, const HEAD sHead, char *pBuffer, const int 
 图1：输入文件名压缩成功界面
 
 ![](./images/文件压缩成功.png)
+
 图2：读取Pic.bmp产生的部分不同权值字节信息
 
 ![](./images/字符权重.png)
+
 图3、4：Pic.bmp生成的HuffmanTree结点信息
 
 ![](./images/Huffman树结点信息1.png)
 ![](./images/Huffman树结点信息2.png)
+
 图5:生成的Huffman编码信息
 
 ![](./images/HuffmanCode生成.png)
+
 图6：Pic.bmp压缩大小及压缩率
 
 ![](./images/压缩文件大小和压缩率.png)
